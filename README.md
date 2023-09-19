@@ -1,7 +1,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-  <a href="https://github.com/tinotenda-alfaneti/stock-prices-predictor/">
+  <a href="https://github.com/bethelchoto/Hand-Writen-Character-Recognition/">
     <img src="./1_jlxdirCP5Qre1pcoNC-7JQ.png" alt="Logo" width="100" height="80">
   </a>
 
