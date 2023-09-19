@@ -2,7 +2,7 @@
 <br />
 <p align="center">
   <a href="https://github.com/bethelchoto/Hand-Writen-Character-Recognition/">
-    <img src="./1_jlxdirCP5Qre1pcoNC-7JQ.png" alt="Logo" width="100" height="80">
+    <img src="./1_jlxdirCP5Qre1pcoNC-7JQ.png" alt="Logo" width="300" height="200">
   </a>
 
   <h3 align="center">Handwritten-Character-Recognition</h3>
