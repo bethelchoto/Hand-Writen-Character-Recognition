@@ -2,33 +2,22 @@
 <br />
 <p align="center">
   <a href="https://github.com/tinotenda-alfaneti/stock-prices-predictor/">
-    <img src="./stock-prediction.jpg" alt="Logo" width="100" height="80">
+    <img src=".1_jlxdirCP5Qre1pcoNC-7JQ.png" alt="Logo" width="100" height="80">
   </a>
 
-  <h3 align="center">Stock Prices Predictor</h3>
+  <h3 align="center">Handwritten-Character-Recognition</h3>
 
   <p align="center">
-    This is a stock prices predictor app build in python using recurrent neural network, yahoo finance api, streamlit, and other machine learning models.
+    Handwritten Character to Editable Document Converter using Deep Learning and Streamlit
     <br />
-    <br />
-    <a href="https://tinotenda-alfaneti-stock-prices-predictor-webapp-nz709p.streamlit.app/">View Demo</a>
-    ·
-    <a href="https://github.com/tinotenda-alfaneti/stock-prices-predictor/issues/new">Report Bug</a>
-    ·
-    <a href="https://github.com/tinotenda-alfaneti/stock-prices-predictor/issues">Request Feature</a>
-    ·
-    <a href="https://github.com/tinotenda-alfaneti/stock-prices-predictor/pulls">Send a Pull Request</a>
   </p>
 </p>
 
 <!-- ABOUT THE PROJECT -->
 ## ABOUT THE PROJECT
 
-This is a stock prices predictor app build in python using recurrent neural network, yahoo finance api, streamlit, pandas, etc. Data for the stocks is read into a Data frame from yahoo finance using the pandas_datareader module. The variety of the recurrent neural networks used for this project are LSTM(Long Short-Term Memory networks) which are capable of learning long-term dependencies in sequential prediction problems like the stock prices prediction. The choice of using LSTM instead of RNN came because according to [GeeksforGeeks](https://www.geeksforgeeks.org/understanding-of-lstm-networks/) RNN fails to store information for a longer period of time. 
+In today's digital age, the ability to convert handwritten documents or images into editable and machine-readable formats is invaluable. This project aims to create a user-friendly web application that leverages the power of deep learning and Streamlit to seamlessly transform handwritten text from scanned documents or images into editable text documents. The application will provide an intuitive interface for users to upload images containing handwritten text, process them using deep learning models, and then download the converted text in a format like Microsoft Word or PDF.
 
-[Click Here to View Project Website](https://tinotenda-alfaneti-stock-prices-predictor-webapp-nz709p.streamlit.app/)
-
-DISCLAIMER: This is not investing advice. I am not a proffesional who is qualified in giving any financial advice. This a preoject purely about Machine Learning using Financial data.
 
 ### BUILT WITH
 Here are the main modules and tool I used for the project
@@ -37,8 +26,7 @@ Here are the main modules and tool I used for the project
 * [Sklearn](https://github.com/topics/sklearn)
 * [Google Colab](https://github.com/googlecolab)
 * [Streamlit](https://github.com/streamlit)
-
-
+* [OpenCV](https://github.com/opencv)
 
 
 <!-- ROADMAP -->
@@ -56,27 +44,21 @@ Here are the main modules and tool I used for the project
 
 Contributions are what make the open source community such an amazing place to be learn, inspire, and create. Any contributions you make are **extremely appreciated**.
 
-1. Fork the Project
-2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the Branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
-
-
+1. Project Setup: Set up the development environment.
+2. Data Preparation: Collect and preprocess the dataset.
+3. Model Development: Choose, train, and validate the deep learning model.
+4. Streamlit Application: Create a Streamlit app for user interaction.
+5. Deployment: Deploy the application on a hosting platform.
+6. Documentation and Maintenance:Create user documentation - Address any necessary bug fixes and updates.
 
 <!-- CONTACT -->
 ## CONTACT
 
-Tinotenda Rodney Alfaneti - [@Linkedin](https://www.linkedin.com/in/tinotenda-rodney-alfaneti/)
+Bethel Panashe Choto - [@Linkedin](https://www.linkedin.com/in/bethel-panashe-choto/)
 
-
-
-<!-- ACKNOWLEDGEMENTS -->
-## ACKNOWLEDGEMENTS
-* [NeuralNine](https://github.com/NeuralNine)
-
-
-
+<!-- Contributions -->
+## Trained Model
+[Click Here To Download Trained Model](https://drive.google.com/file/d/1nlJ8cNvvUWRczSGz3Dn_0MN2UJ2_hT06/view?usp=share_link)
 
 
 <!-- MARKDOWN LINKS & IMAGES -->
@@ -89,41 +71,3 @@ Tinotenda Rodney Alfaneti - [@Linkedin](https://www.linkedin.com/in/tinotenda-ro
 [issues-url]: https://github.com/roshanlam/ReadMeTemplate/issues
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/roshan-lamichhane 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-![1_jlxdirCP5Qre1pcoNC-7JQ](https://github.com/bethelchoto/Hand-Writen-Character-Recognition/assets/74825621/d024f98b-2dda-4292-99fe-2bb565def662)
-# handwritten-character-recognition
-
-
-converting handwritten document/image to an edittable document using Deep Learning and Streamlit
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-[Click Here To Download Trained Model](https://drive.google.com/file/d/1nlJ8cNvvUWRczSGz3Dn_0MN2UJ2_hT06/view?usp=share_link)
