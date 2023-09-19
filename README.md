@@ -32,18 +32,6 @@ Here are the main modules and tool I used for the project
 <!-- ROADMAP -->
 ## ROADMAP
 
-1. Create a prediction model for a specific stock
-2. Train a model that can be used for any stock
-3. Add other prediction models like [Facebook's FBProphet](https://github.com/facebook/prophet)
-4. Create a Streamlit web application
-5. Deploy the web application
-
-
-<!-- CONTRIBUTING -->
-## CONTRIBUTING
-
-Contributions are what make the open source community such an amazing place to be learn, inspire, and create. Any contributions you make are **extremely appreciated**.
-
 1. Project Setup: Set up the development environment.
 2. Data Preparation: Collect and preprocess the dataset.
 3. Model Development: Choose, train, and validate the deep learning model.
@@ -51,12 +39,18 @@ Contributions are what make the open source community such an amazing place to b
 5. Deployment: Deploy the application on a hosting platform.
 6. Documentation and Maintenance:Create user documentation - Address any necessary bug fixes and updates.
 
+
+<!-- CONTRIBUTING -->
+## CONTRIBUTING
+
+Contributions are what make the open source community such an amazing place to be learn, inspire, and create. Any contributions you make are **extremely appreciated**.
+
 <!-- CONTACT -->
 ## CONTACT
 
 Bethel Panashe Choto - [@Linkedin](https://www.linkedin.com/in/bethel-panashe-choto/)
 
-<!-- Contributions -->
+<!-- Model -->
 ## Trained Model
 [Click Here To Download Trained Model](https://drive.google.com/file/d/1nlJ8cNvvUWRczSGz3Dn_0MN2UJ2_hT06/view?usp=share_link)
 
